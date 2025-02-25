@@ -2,7 +2,8 @@ public class Main {
     public static void main(String[] args) {
         Dummie dummie = new Dummie();
 
-        dummie.printMessage("Welcome\n to MPP lecture!");
+        dummie.printMessage("Welcome\nto MPP lecture!\n");
+        dummie.printMessage("Happy to learn coding!");
 
     }
 }
